@@ -1,0 +1,126 @@
+[
+    {
+      "nombre": "Producto 1",
+      "precio": 10.00,
+      "imagenURL": "images/product1.jpg",
+      "material": "Madera",
+      "estilo": "Clásico",
+      "color": "Marrón",
+      "tipo": "Silla"
+    },
+    {
+      "nombre": "Producto 2",
+      "precio": 15.50,
+      "imagenURL": "images/product2.jpg",
+      "material": "Cristal",
+      "estilo": "Moderno",
+      "color": "Negro",
+      "tipo": "Mesa"
+    },
+    {
+        "nombre": "Producto 2",
+        "precio": 15.50,
+        "imagenURL": "images/product2.jpg",
+        "material": "Cristal",
+        "estilo": "Moderno",
+        "color": "Negro",
+        "tipo": "Mesa"
+      },{
+        "nombre": "Producto 2",
+        "precio": 15.50,
+        "imagenURL": "images/product2.jpg",
+        "material": "Cristal",
+        "estilo": "Moderno",
+        "color": "Negro",
+        "tipo": "Mesa"
+      },{
+        "nombre": "Producto 2",
+        "precio": 15.50,
+        "imagenURL": "images/product2.jpg",
+        "material": "Cristal",
+        "estilo": "Moderno",
+        "color": "Negro",
+        "tipo": "Mesa"
+      },{
+        "nombre": "Producto 2",
+        "precio": 15.50,
+        "imagenURL": "images/product2.jpg",
+        "material": "Cristal",
+        "estilo": "Moderno",
+        "color": "Negro",
+        "tipo": "Mesa"
+      },{
+        "nombre": "Producto 2",
+        "precio": 15.50,
+        "imagenURL": "images/product2.jpg",
+        "material": "Cristal",
+        "estilo": "Moderno",
+        "color": "Negro",
+        "tipo": "Mesa"
+      },{
+        "nombre": "Producto 2",
+        "precio": 15.50,
+        "imagenURL": "images/product2.jpg",
+        "material": "Cristal",
+        "estilo": "Moderno",
+        "color": "Negro",
+        "tipo": "Mesa"
+      },{
+        "nombre": "Producto 2",
+        "precio": 15.50,
+        "imagenURL": "images/product2.jpg",
+        "material": "Cristal",
+        "estilo": "Moderno",
+        "color": "Negro",
+        "tipo": "Mesa"
+      },{
+        "nombre": "Producto 2",
+        "precio": 15.50,
+        "imagenURL": "images/product2.jpg",
+        "material": "Cristal",
+        "estilo": "Moderno",
+        "color": "Negro",
+        "tipo": "Mesa"
+      },{
+        "nombre": "Producto 2",
+        "precio": 15.50,
+        "imagenURL": "images/product2.jpg",
+        "material": "Cristal",
+        "estilo": "Moderno",
+        "color": "Negro",
+        "tipo": "Mesa"
+      },{
+        "nombre": "Producto 2",
+        "precio": 15.50,
+        "imagenURL": "images/product2.jpg",
+        "material": "Cristal",
+        "estilo": "Moderno",
+        "color": "Negro",
+        "tipo": "Mesa"
+      },{
+        "nombre": "Producto 2",
+        "precio": 15.50,
+        "imagenURL": "images/product2.jpg",
+        "material": "Cristal",
+        "estilo": "Moderno",
+        "color": "Negro",
+        "tipo": "Mesa"
+      },{
+        "nombre": "Producto 2",
+        "precio": 15.50,
+        "imagenURL": "images/product2.jpg",
+        "material": "Cristal",
+        "estilo": "Moderno",
+        "color": "Negro",
+        "tipo": "Mesa"
+      },
+    {
+      "nombre": "Producto 3",
+      "precio": 20.00,
+      "imagenURL": "images/product3.jpg",
+      "material": "Madera",
+      "estilo": "Moderno",
+      "color": "Blanco",
+      "tipo": "Sofá"
+    }
+  ]

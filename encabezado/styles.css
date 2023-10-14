@@ -1,0 +1,94 @@
+/* Estilo para el body */
+body {
+    height: 10px;
+}
+
+
+/* Resetear márgenes y padding por defecto */
+body, ul {
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+/* Estilos para el encabezado */
+/* styles.css */
+.headerv {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    z-index: 1000;
+}
+
+/* Agrega el margen superior para evitar que el contenido se superponga con el encabezado */
+body {
+    margin-top: 78px; /* Ajusta la altura según tu encabezado */
+}
+
+
+#logo img {
+    max-width: 200px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    align-items: center; /* Alinear elementos verticalmente */
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 5px 15px; /* Aumentar el padding para aumentar el radio */
+    border-radius: 20px; /* Aumentar el radio */
+}
+
+/* Estilos para los iconos */
+#icon_encabezado i {
+    font-size: 24px; /* Aumentar el tamaño de los iconos */
+    color: #964B00; /* Cambiar el color de los iconos a marrón */
+}
+
+#reference_link {
+    color: #964B00; /* Marrón */
+    background-color: #fff; /* Blanco */
+    border: 1px solid #964B00; /* Borde marrón */
+}
+
+
+.menu-toggle {
+    display: none; /* Inicialmente oculto */
+}
+
+@media (max-width: 1000px) {
+    /* Mostrar el icono de hamburguesa y ocultar el menú en pantallas más pequeñas */
+    #references_ul {
+        display: none;
+
+    }
+
+    .menu-toggle{
+        display: flex;
+    }
+
+}
+
+#audio {
+    position: absolute;
+    left: -9999px;
+    top: -9999px;
+}

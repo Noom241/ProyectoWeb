@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fG11ZWJsZXN8ZW58MHx8MHx8fDA%3D&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.encabezado{
+    width: 100%;
+}
+
+.content_page{
+    margin-top: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 80%;
+    min-width: max-content;
+    max-width: 800px;
+    background-color: rgba(255, 255, 255, 0.8); /* Puedes combinar padding-left y padding-right en una sola propiedad */
+    border-radius: 15px;
+    text-align: center;
+}
+
+
+.title {
+    color: #8B4513;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 4%;
+}
+
+.form-row {
+    display: flex;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+label {
+    width: 120px;
+    color: #000000;
+}
+
+.input {
+    padding: 5px;
+    border: none;
+    border-bottom: 2px solid #8B4513;
+    margin-right: 20px;
+    background: none;
+    transition: background-color 0.3s; /* Agregamos una transición suave */
+}
+
+.input:focus {
+    outline: none;
+    background-color: #f0f0f000;
+}
+
+.button-container {
+    margin-top: 20px;
+}
+
+.register-button {
+    background-color: #8B4513;
+    color: white;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.forgot-password-link {
+    color: #000000;
+    text-decoration: none;
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.forgot-password-link:hover {
+    text-decoration: underline;
+}
